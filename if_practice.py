@@ -1,6 +1,5 @@
-if practice
 Score = int( input (' Enter score : '))
-if score > 50;
+if score > 50:
     print ('Grade = B')
-else
+else:
     print ('Grade = C')
